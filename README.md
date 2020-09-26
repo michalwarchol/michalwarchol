@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 :white_check_mark: ReactJS</br>
 :white_check_mark: CSS/SASS</br>
 :white_check_mark: Bootstrap</br>
-:white_check_mark: Tyepscript</br>
+:white_check_mark: TypeScript</br>
 :white_check_mark: Git</br>
 :white_check_mark: VS Code
