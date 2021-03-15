@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on battleships project
+- 🔭 I’m currently working on color wheel project
 - 🌱 I’m currently learning TypeScript
 - 🤔 I’m looking for help with my first job :joy:
 - 💬 Ask me about anything
