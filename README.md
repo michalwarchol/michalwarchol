@@ -4,8 +4,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on color wheel project
-- 🌱 I’m currently learning TypeScript
+- 🔭 I’m currently working on facebook clone project
+- 🌱 I’m currently learning GraphQL
 - 🤔 I’m looking for help with my first job :joy:
 - 💬 Ask me about anything
 
@@ -16,9 +16,12 @@ Here are some ideas to get you started:
 ### Technologies I use:
 
 :white_check_mark: JavaScript</br>
+:white_check_mark: TypeScript</br>
 :white_check_mark: ReactJS</br>
+:white_check_mark: MongoDB</br>
+:white_check_mark: NextJS</br>
+:white_check_mark: Chakra UI</br>
 :white_check_mark: CSS/SASS</br>
 :white_check_mark: Bootstrap</br>
-:white_check_mark: TypeScript</br>
 :white_check_mark: Git</br>
 :white_check_mark: VS Code
