@@ -2,9 +2,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on facebook clone project
+- 🔭 I’m currently working on a facebook clone project
 - 🌱 I’m currently learning GraphQL
-- 🤔 I’m looking for help with my first job :joy:
+- :wrench: Let me help you with your project :smirk:
 - 💬 Ask me about anything
 
 ### Links you may need:
