@@ -16,10 +16,13 @@ Here are some ideas to get you started:
 :white_check_mark: JavaScript</br>
 :white_check_mark: TypeScript</br>
 :white_check_mark: ReactJS</br>
-:white_check_mark: MongoDB</br>
 :white_check_mark: NextJS</br>
 :white_check_mark: Chakra UI</br>
 :white_check_mark: CSS/SASS</br>
-:white_check_mark: Bootstrap</br>
+:white_check_mark: Node.js / Express</br>
+:white_check_mark: GraphQL</br>
+:white_check_mark: MongoDB</br>
+:white_check_mark: PostgreSQL</br>
+:white_check_mark: Redis</br>
+:white_check_mark: Typeorm</br>
 :white_check_mark: Git</br>
-:white_check_mark: VS Code
