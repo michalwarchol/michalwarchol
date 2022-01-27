@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ### Links you may need:
 :link:<a href="https://www.linkedin.com/in/michal-warchol/">Linkedin</a></br>
-:muscle:<a href="https://michalwarchol.pl">Portfolio</a>
+:muscle:<a href="https://michalwarchol.com">Portfolio</a>
 
 ### Technologies I use:
 
