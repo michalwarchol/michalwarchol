@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a live chat project called MessageDrop
-- 🌱 I’m currently learning Typegoose
+- 🔭 I’m currently working on a live chat project called Slash
+- 🌱 I’m currently learning Next.js and NestJS
 - :wrench: Let me help you with your project :smirk:
 - 💬 Ask me about anything
 
