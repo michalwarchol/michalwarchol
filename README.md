@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 
 ### Links you may need:
-:link:<a href="https://www.linkedin.com/in/michal-warchol/">Linkedin</a></br>
+:link:<a href="https://www.linkedin.com/in/michal-warchol/" target="_blank">Linkedin</a></br>
 
 ### Technologies I use:
 
