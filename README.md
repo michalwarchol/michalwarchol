@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 :white_check_mark: ReactJS</br>
 :white_check_mark: NextJS</br>
 :white_check_mark: Chakra UI</br>
+:white_check_mark: Material UI</br>
+:white_check_mark: Ant Design</br>
 :white_check_mark: CSS/SASS</br>
 :white_check_mark: Node.js / Express</br>
 :white_check_mark: RESTful API</br>
